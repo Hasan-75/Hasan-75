@@ -10,7 +10,7 @@ As I have a daily job, I'm not very regular on github particularly. So you can o
 
 ## To give you the idea about what I'm up to in my job life:
 
-🌱 I’m currently learning:
+💻 I’m currently working with:
 - Dotnet for backend and API development 
 - React with Typescript for frontends
 - LLMs and how to integrate them meaningfully into software products  
