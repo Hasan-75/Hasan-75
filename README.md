@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hasan
-### A Backend-heavy Fullstack Software Engineer.
+### A Backend-heavy Fullstack Software Engineer (C#, F#, .NET, React)
 ### 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/hasan-75/)
 
 ---
