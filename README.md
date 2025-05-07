@@ -69,10 +69,13 @@ As I have a daily job, I'm not very regular on github particularly. So you can o
 ## 📊 GitHub Analytics
 
 ### 📈 GitHub Stats
-[![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan-75&show_icons=true&theme=default)](https://github.com/hasan-75)
+[![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan-75&show_icons=true&theme=radical)](https://github.com/Hasan-75)
+
+[![Hasan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasan-75&theme=github-dark)](https://github.com/Hasan-75)
 
 ### 🧠 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-75&layout=compact)](https://github.com/hasan-75)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-75&layout=compact&theme=vision-friendly-dark)](https://github.com/Hasan-75)
+
 
 ---
 
