@@ -81,9 +81,15 @@ Worked across core platforms powering one of Bangladesh’s largest e-commerce e
 ---
 
 ## 🔧 Open Source Contributions
+* **ShapeCrawler**
+  - [#1117](https://github.com/ShapeCrawler/ShapeCrawler/pull/1117)
+  - [#1118](https://github.com/ShapeCrawler/ShapeCrawler/pull/1118)
+  - [#1120](https://github.com/ShapeCrawler/ShapeCrawler/pull/1120)
+  - [#1122](https://github.com/ShapeCrawler/ShapeCrawler/pull/1122)
 
-* **ShapeCrawler** — Fixed [#892](https://github.com/ShapeCrawler/ShapeCrawler/issues/892), PRs [#1117](https://github.com/ShapeCrawler/ShapeCrawler/pull/1117)
-* **ExcelDataReader** — Fixed [#566](https://github.com/ExcelDataReader/ExcelDataReader/issues/566), [#694](https://github.com/ExcelDataReader/ExcelDataReader/issues/694), PRs [#696](https://github.com/ExcelDataReader/ExcelDataReader/pull/696), [#697](https://github.com/ExcelDataReader/ExcelDataReader/pull/697)
+* **ExcelDataReader**
+  - [#696](https://github.com/ExcelDataReader/ExcelDataReader/pull/696)
+  - [#697](https://github.com/ExcelDataReader/ExcelDataReader/pull/697)
 
 ---
 
