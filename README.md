@@ -81,16 +81,18 @@ Worked across core platforms powering one of Bangladesh’s largest e-commerce e
 ---
 
 ## 🔧 Open Source Contributions
-* **ShapeCrawler**
-  - [#1117](https://github.com/ShapeCrawler/ShapeCrawler/pull/1117)
-  - [#1118](https://github.com/ShapeCrawler/ShapeCrawler/pull/1118)
-  - [#1120](https://github.com/ShapeCrawler/ShapeCrawler/pull/1120)
-  - [#1122](https://github.com/ShapeCrawler/ShapeCrawler/pull/1122)
+* **[ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler)** <sub>(A .NET library for manipulating PowerPoint presentations)</sub>
+  - [Support adding pictures using .ico image](https://github.com/ShapeCrawler/ShapeCrawler/pull/1117)
+  - [Added Footer Text Support](https://github.com/ShapeCrawler/ShapeCrawler/pull/1118)
+  - [Added support to add or remove footer text on specific slide](https://github.com/ShapeCrawler/ShapeCrawler/pull/1120)
+  - [Chart Title Setter](https://github.com/ShapeCrawler/ShapeCrawler/pull/1122)
 
-* **ExcelDataReader**
-  - [#696](https://github.com/ExcelDataReader/ExcelDataReader/pull/696)
-  - [#697](https://github.com/ExcelDataReader/ExcelDataReader/pull/697)
+* **ExcelDataReader** <sub>(Lightweight and fast library written in C# for reading Microsoft Excel files)</sub>
+  - [Config property to control trimming whitespaces in CSV parser](https://github.com/ExcelDataReader/ExcelDataReader/pull/696)
+  - [Fixed TimSpan Parsing](https://github.com/ExcelDataReader/ExcelDataReader/pull/697)
 
+* **[ReverseMarkdown.Net](https://github.com/mysticmind/reversemarkdown-net)** <sub>(ReverseMarkdown.Net is a Html to Markdown converter library in C#)</sub>
+  - [Add support for "Github Flavored Markdown Task Lists"](https://github.com/mysticmind/reversemarkdown-net/pull/405)
 ---
 
 ## 📜 Certifications
