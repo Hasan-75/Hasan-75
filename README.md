@@ -87,7 +87,7 @@ Worked across core platforms powering one of Bangladesh’s largest e-commerce e
   - [Added support to add or remove footer text on specific slide](https://github.com/ShapeCrawler/ShapeCrawler/pull/1120)
   - [Chart Title Setter](https://github.com/ShapeCrawler/ShapeCrawler/pull/1122)
 
-* **ExcelDataReader** <sub>(Lightweight and fast library written in C# for reading Microsoft Excel files)</sub>
+* **[ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)** <sub>(Lightweight and fast library written in C# for reading Microsoft Excel files)</sub>
   - [Config property to control trimming whitespaces in CSV parser](https://github.com/ExcelDataReader/ExcelDataReader/pull/696)
   - [Fixed TimSpan Parsing](https://github.com/ExcelDataReader/ExcelDataReader/pull/697)
 
